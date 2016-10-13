@@ -1,3 +1,39 @@
-Company name- Global WiFi
-Location- one
-Total Employee- 21
+Company Name: S2H24 (which is stand for “Shop to Home 24 hours”)
+Location: This is the NYC based company. 
+It has 10 locations; four in Manhattan (Washington heights, Upper Harlem & south part of Bronx) , 
+One in North part of Bronx, Two in Queens (long Island city & Flushing), Two in Brooklyn (Williamsburg & Dumbo) 
+
+Employees: There are 40 employees in total (just initially), each location has four people.
+
+Objectives (what we sale and how do we earn revenue):
+•	We provide delivery service from any store in NYC to our customers’ home. 
+•	It could be food, electronics, cloths, laundry cloths, and any kind of personal need from deli or pharmacy,
+ any kind of personal moving or need to deliver.
+ (NB: we don’t do the passenger transportation)
+•	 Our company open 24/7 and minimum order would be $20.
+•	Customer could order their product or needs in our Website,
+ they could make a list and charge with their card in approximate amount of money with our 20% service charge.
+•	Then we buy the customers products or needs and delivered to them with a money receipt.
+
+Annual revenue estimate: If we get 50 order in each location per day and average order would be $50 then 50*50*20/100= $500 we get from each location. 500*10=$5000 will be daily and 5000*365=1,825,000 will be annual income without expenses. If we assume $450 (employee=$360, utility and rent=$30, Transportation and others = $60) expenses per day in a store then 50*10*365= 182,500 will be annual profit without taxes and other extra expenses. 
+Payment Policy: The transaction will be completed by three steps like Merchant bank account,
+ Processor and Issuing bank. We accept almost all type of card like Master Card, VISA, Discovery, 
+and American Express. 
+•	We would open a business account in any Merchant Bank and with a transaction charge 
+(which is call discount rate) the will maintain our money with the help of third party.
+
+•	Third party manage the money transferring relationship between Bank and Customer.
+ They will check the right network and pathway to the transaction.
+ Third party processor will charge per transection basis, which is in clouded the discount rate.
+
+•	Different type of bank and financial institution will provide the Cards to our consumer or customer.
+
+•	Association such as VISA, American Express, Master Card   will charge us an interchange fees 
+
+
+ Supplier and Client:  Our suppliers would be packaging company,
+ car rentals and logistic company. They will supply us packaging staff, 
+and we might need car to delivered sometimes. On the other hand, 
+the Clients would any person in the New York City. 
+They just need to sign up with their credit card and 
+address information in our website and order in online in any time in 7days and 24 hours.
