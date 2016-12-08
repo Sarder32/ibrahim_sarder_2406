@@ -1,2 +1,4 @@
 19. List five problems with current issue in  New York city that my project could be solved in delivary every single need.
- a. 
+ * Today people order their products and they have to wait for at list three day to get in in free delivary. 
+ *People have a proiblem to order their products in different store for different goods.
+ *
