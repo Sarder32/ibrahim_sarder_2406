@@ -1,6 +1,6 @@
 Company Description:
 
-1.  Company Name: S2H24 (which is stand for ìShop to Home 24 hoursî)
+1.  Company Name: S2H24 (which is stand for ‚ÄúShop to Home 24 hours‚Äù)
 
 2.  Location: This is the NYC based company. It has 10 locations;
     Four in Manhattan (Washington heights,
@@ -18,9 +18,9 @@ Company Description:
     There are 25 employees will work on fild to deliver the order to the customers.
 
  
-5.   We provide delivery service from any store in NYC to our customersí home. 
+5.   We provide delivery service from any store in NYC to our customers‚Äô home. 
      It could be food, electronics, cloths, laundry cloths, and any kind of personal need from deli or pharmacy, 
-     any kind of personal moving or need to deliver. (NB: we donít do the passenger transportation)
+     any kind of personal moving or need to deliver. (NB: we don‚Äôt do the passenger transportation)
      Our company open 24/7 and minimum order would be $20. Customer could order their product or needs in our Website,
      they could make a list and charge with their card in approximate amount of money with our 20% service charge.
      Then we buy the customers products or needs and delivered to them with a money receipt.
@@ -33,7 +33,7 @@ Company Description:
 7.      The transaction will be completed by three steps like Merchant bank account, 
         Processor and Issuing bank. 
         We accept almost all type of card like Master Card, VISA, Discovery, 
-        and American Express.  We would open a business account in any Merchant Bank and with a transaction charge (which is call discount rate) 
+        and American Express.  We would open a business account in any Merchant Bank and with a transaction charge  (which is call discount rate) 
         the will maintain our money with the help of third party.
         Third party manage the money transferring relationship between Bank and Customer. 
         They will check the right network and pathway to the transaction. 
