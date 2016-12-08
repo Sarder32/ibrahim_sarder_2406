@@ -1,4 +1,9 @@
 19. List five problems with current issue in  New York city that my project could be solved in delivary every single need.
  * Today people order their products and they have to wait for at list three day to get in in free delivary. 
  *People have a proiblem to order their products in different store for different goods.
+ * People could not get their daily needs from any deli by ordering online
+ *people need to go different website to order their different  prodicts 
+ *Transection problem or limitation (minimum price and location) is a big problem for online ordering.
+ 
+ 20.  Here provides  a system improvement objective that would be accomplished and that would be measurable in some objective    way for each problem.
  *
