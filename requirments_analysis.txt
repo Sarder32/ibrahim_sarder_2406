@@ -1,0 +1,40 @@
+21. Describe between two and four functional requirements that will fulfill the needs of clients:
+
+	a. First of all  the functional requirments of clients is register to our website and put their name,address and cell phone number in our system and sign up with an user ID and password.
+	
+	b. Then functional requirements would be select the shop for products and chose products for making an order.
+	
+	c. Then functional requirements would be procided to make a pament by credit card , it can be priviously selected in their signing information.
+	
+	d. Then functional requirements of customer is select delivary time and conferm the order, they should receive a confermation code after ordering.
+         
+        e. After receiving the product , customer have to sign in our apps which will provide by our delivery man .
+
+
+22. Describe between two and four functional requirements that will fulfill the needs of suppliers. 
+	
+        a. First of all the  functional requirements of suppliers is up grade the shop and products informations in every two weeks.
+	
+	b. Then the functional requirements is check and catagorize the order list according to the delivery time priority.
+	
+	c. Then functional requirments of suppliers cheak the price and buy the product according to the order.
+
+        d. Lastly the suppliers deliver the product and confirm a receiving sign from customer.
+
+
+23. Describe between two and four functional requirements that will help someone administer the proposed information system. 
+
+	a. First of all functional requirements of administretors is collect the data from verious shops and stores, organize the products list to make easier for customers.
+	
+	b. Secondly functional requirements of management is keep available for technical support of our system and up grade the webpage reguarly and keep it secured.
+	
+	c. The administrators shoud keep all database and customer infirmation secured and organize them as easy as possible to use.
+
+24. Describe between two and four functional requirements that will help analyze the quality of the company’s operations and inform strategic decisions. 
+	
+	a. First  functional requirements of upper management is , to help administer to build and manage the proposed information system to establish the idea.
+	
+	b. Secondy fuctional requirement would be track record about employees how the will be benefical to the company then they can be offer bonus.
+	
+	c. Another functional requirment is provide an upgrade policy to make more profite by this system.
+	
