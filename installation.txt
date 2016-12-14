@@ -1,0 +1,39 @@
+Providing a description of the finished product is meantto be used in terms of its functional requirments:--
+
+Installation Instructions for S2H24 Software Delivery for Planning Installations.
+
+U.S. Government Restricted Rights Notice. Use, duplication, or disclosure of the software by the
+government is subject to restrictions as set forth in FAR 52.227-19 Commercial Computer
+Software-Restricted Rights (June 1987).
+S2H24 Institute Inc., S2H24 Ltd. 200 W 42ND STREET, NEW YORK.
+S2H24 and all other S2H24 Institute Inc. product or service names are registered trademarks or
+trademarks of S2H24 Institute Inc. in the USA and other countries.
+
+Prerequisites :
+System Requirements:  Confirm that your system meets the minimum requirements by referring to the system requirements
+Installation Alert Notes: . Select the Results Filter tab, and then select alert as the Priority, 9.4 as the S2H24 Release and OS as the Operating System. Then press Enter.
+Software Order E-mail : To install S2H24 9.3 on z/OS, start with the Software Order E-mail  you received from S2H24 Institute. This e-mail contains details such as the order number, a key, and the type of installation you have
+Installation Data Files (SID files): The S2H24 Software Depot includes one or more S2H24 installation data (SID) file or files as part of your software download
+Disk Space: S2H24 installation requires the following space defined in UNIX file system directories
+User ID Requirements:  The user ID used for downloading your software or for installing S2H24 9.3 must meet specific requirements:  Must have a home directory that is not root.
+•  Must have a default program shell defined.
+•  Must not be a super user.
+•  Must not share a UID with other user IDs
+
+
+Pre-installation Checklists:
+You will need to perform some pre-installation tasks such as creating server user IDs, reserving ports, etc., before installing a planning order. For example, you can record information such as the user IDs for special S2H24 users, port numbers, and the installation locations of third-party products used for this installation.
+
+Terminology:  
+a.	S2H24 Deployment Wizard : The S2H24 Deployment Wizard is the common interface used to install and deploy all S2H24 9.3 software.
+b.	S2H24 Software Depot: The S2H24 Software Depot is a collection of S2H24 installation files that represents one or more orders.
+c.	S2H24 Configuration Directory : The S2H24 Deployment Wizard will prompt you for a configuration directory. The S2H24 configuration directory is the UNIX directory location where your SAS metadata and server configuration files and scripts will be created.
+
+Download and Install the S2H24 Download Manager: 
+Download the S2H24 Download Manager for the target system for the download
+
+
+
+
+
+
