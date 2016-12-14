@@ -1,22 +1,22 @@
-There are various type of software testing and other testing are involved in a project, here some of them are describe:
+36. There are various type of software testing and other testing are involved in a project, here some of them are describe:
 
-a.	Black box testing – Internal system design is not considered in this type of testing.
+a.	Black box testing â€“ Internal system design is not considered in this type of testing.
 
-b.	White box testing – This testing is based on knowledge of the internal logic of an application’s code. 
+b.	White box testing â€“ This testing is based on knowledge of the internal logic of an applicationâ€™s code. 
 
-c.	Unit testing – Testing of individual software components or modules.
+c.	Unit testing â€“ Testing of individual software components or modules.
 
-d.	Integration testing – Testing of integrated modules to verify combined functionality after integration
+d.	Integration testing â€“ Testing of integrated modules to verify combined functionality after integration
 
-e.	Functional testing – This type of testing ignores the internal parts and focus on the output is as per requirement or not.
+e.	Functional testing â€“ This type of testing ignores the internal parts and focus on the output is as per requirement or not.
 
-f.	System testing – Entire system is tested as per the requirements. 
+f.	System testing â€“ Entire system is tested as per the requirements. 
 
-g.	Regression testing – Testing the application as a whole for the modification in any module or functionality
+g.	Regression testing â€“ Testing the application as a whole for the modification in any module or functionality
 
-h.	End-to-end testing – Similar to system testing, involves testing of a complete application environment in a situation that mimics real-world use, 
+h.	End-to-end testing â€“ Similar to system testing, involves testing of a complete application environment in a situation that mimics real-world use, 
 
 i.	Acceptance testing -Normally this type of testing is done to verify if system meets the customer specified requirements. 
 
-j.	Load testing – It's a performance testing to check system behavior under load. 
+j.	Load testing â€“ It's a performance testing to check system behavior under load. 
 
