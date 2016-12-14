@@ -1,4 +1,4 @@
-Providing a description of the finished product is meantto be used in terms of its functional requirments:--
+37. Providing a description of the finished product is meantto be used in terms of its functional requirments:--
 
 Installation Instructions for S2H24 Software Delivery for Planning Installations.
 
@@ -16,9 +16,9 @@ Software Order E-mail : To install S2H24 9.3 on z/OS, start with the Software Or
 Installation Data Files (SID files): The S2H24 Software Depot includes one or more S2H24 installation data (SID) file or files as part of your software download
 Disk Space: S2H24 installation requires the following space defined in UNIX file system directories
 User ID Requirements:  The user ID used for downloading your software or for installing S2H24 9.3 must meet specific requirements:  Must have a home directory that is not root.
-•  Must have a default program shell defined.
-•  Must not be a super user.
-•  Must not share a UID with other user IDs
+â€¢  Must have a default program shell defined.
+â€¢  Must not be a super user.
+â€¢  Must not share a UID with other user IDs
 
 
 Pre-installation Checklists:
@@ -36,4 +36,5 @@ Download the S2H24 Download Manager for the target system for the download
 
 
 
-
+
+
