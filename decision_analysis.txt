@@ -1,9 +1,18 @@
 28. Estimate the technical feasibility of the proposed system.
+  Break the project down into the different tasks needed.
 
+Evaluate each task on two scales: complexity and size of work. Tasks effectively fall into one of nine undefinedcombinations of complexity and size. For example, a less complex task may still involve a large amount of work, such as, loading a database from paper forms.
+
+For each combination, define an expected amount of time and resources required. For example, the low complexity and small-size tasks will take one week at most, the medium complexity and small-size tasks will take three weeks.  These weighing factors will differ based on the team and project and should be reviewed after the project to help get better values the next time.
+
+Add together all these values for each task to get an estimate of time and resources required.
+ 
 29. Estimate the operational feasibility of the proposed system.
-
+  The project that its requirements are highly structured and well define will have lower risk than the one that the requirements are subject to the judgment of an individual.
 30. Estimate the economic feasibility of the proposed system.
+  Project investments involve the expenditure of capital funds and other resources to generate future benefits, whether in the form of profits, cost savings, or social benefits. For an investment to be worthwhile, the future benefit should compare favorably with the prior expenditure of resources need to achieve them.   
 
+ 
 31. Estimate the schedule feasibility of the proposed system.
 
 32. Do these feasibility estimates describe a system which corresponds to that described in the scope definition?
